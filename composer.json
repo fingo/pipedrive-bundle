@@ -1,5 +1,5 @@
 {
-    "name": "fingo/pipedrive-bundle",
+    "name": "jgendera/pipedrive-bundle",
     "type": "symfony-bundle",
     "autoload": {
         "psr-4": {

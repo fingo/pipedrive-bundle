@@ -1,0 +1,12 @@
+fingo_pipedrive:
+  providers:
+    provider_one:
+      client_id: 123
+      client_secret: 1234
+      redirect_uri: http://localhost
+      secret: randomly_generated_string_0x123
+    provider_two:
+      client_id: 987
+      client_secret: 9876
+      redirect_uri: http://localhost2
+      secret: randomly_generated_string_0x987
